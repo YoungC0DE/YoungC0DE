@@ -1,4 +1,4 @@
-## Olá, eu Rafael Anjos 👋
+## Olá, eu sou Rafael Anjos 👋
 
 - 🔭 Atualmente estou trabalhando como Jovem Aprendiz.
 - 🌱 Estou estudando Javascript e ReactJs.
