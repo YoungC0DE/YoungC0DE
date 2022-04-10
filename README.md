@@ -38,9 +38,6 @@
    <a href="https://pt-br.reactjs.org/">
       <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="git" width="40" height="40"/></code>
    </a>
-   <a href="https://ubuntu.com/">
-      <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="git" width="40" height="40"/></code>
-   </a>
    <a href="https://www.gnu.org/software/bash/">
       <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="git" width="40" height="40"/></code>
    </a>
