@@ -10,7 +10,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img src="https://lh3.googleusercontent.com/fife/AAWUweXa29iBXDH_5aKWVC5WJlzHO6aNXoXAnhN1Vu_1szUC3OQ--p_9NKH2_e0fijE1mn6ZURshMkw7Dx3Y8zSg4Fehs3StLRJ3MJv2--OyPr1lQUzxqm4Xd7uoYCA2wbv4ZkPjyDPijjgT_XLKTIWUG3Lp1z4TdA3LwGpATry1RypiuWX5E2iY9EBcJ6TSpAbmppBkKzHpcNY-ftmCE2MmqoXFf0FdaNA0bIph1jbrqnhecN826pbsi1693386n2oSIM2l3zMDByDX4GbNBnE8waRqRSeya8fydmgk67wRy6J4rD6hV62E_Jj-qUy2-Md9TsSg_AI-brkFamV34k0pBbl_g1PU66vPGASlw2wvEJCGH2ks2vbmda-dh3Z0abLkkzd_Mt-uGGKXNhKL8x-psfLJzoxYQu83uTHD_MGRZE_Tmru4eL6KCOZA2gZqY0K7sVjpLQcGzmj76boBxxX_8MOpgIJhS9TaqdOz_uNAQIIbg7ETZGzHUrGFWxp3OLqA8-Cres_YqgtDgPrve7WMvdU8jZl-WDv4ByipjreiQYasSHHA-bCdIoylILvnRotB8fOwh5NzZJw24Ram676x5yueqbp9uRhHS06QsJxOGssnxSOrP7kqXw6gpSB60ruRc8HLz3mP9xuYEPQLW_7ka9L26kzR0R5-LqtqR6dof8oLN5FMV3TAbOSS_AriT7tgjbT8b7RBGjEg2IlDEozJoKKjf3jVImIUe6d4gBa3LU8tEnZUYpaML0Niz4W_Ban3-pN2V4-g-5th3g3H5SXUl9fg05hADUV-hJgClvOmHB6_josDApGXdirb=w1920-h865?width=676&height=676" align="right" alt="Rafael-pic" height="150">
+  <img src="https://user-images.githubusercontent.com/68437256/162633924-e59e6cde-b128-4df6-bb7c-3d86efbd65b4.gif" align="right" alt="Rafael-pic" height="150">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/></code>
    </a>
