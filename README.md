@@ -11,7 +11,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img src="https://user-images.githubusercontent.com/68437256/162633924-e59e6cde-b128-4df6-bb7c-3d86efbd65b4.gif" align="right" alt="Rafael-pic" height="150">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/></code>
    </a>
@@ -48,9 +47,10 @@
    <a href="https://www.gimp.org/">
       <code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg" alt="git" width="40" height="40"/></code>
    </a>
-   <a href="https://sass-lang.com/>
+   <a href="https://sass-lang.com"/>
       <code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" alt="git" width="40" height="40"/></code>
-   </a>  
+   </a> 
+   <img src="https://user-images.githubusercontent.com/68437256/162633924-e59e6cde-b128-4df6-bb7c-3d86efbd65b4.gif" align="right" alt="Rafael-pic" height="150">
 </div>
   
   ##
