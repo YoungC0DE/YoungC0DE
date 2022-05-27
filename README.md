@@ -3,15 +3,16 @@
 - 🔭 Atualmente estou trabalhando como Auxiliar de Suporte de Chat na Jettax.
 - 🌱 Estou estudando Javascript e ReactJs.
 - 🎯 Meu objetivo é trabalhar com Desenvolvimento Front-End.
-- 🐱‍🏍 **DevOps /|/ FullStack 
+- 🐱‍🏍 **DevOps** **-** **FullStack** 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungC0DE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungC0DE&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+<div align="center">
+  
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/></code>
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
