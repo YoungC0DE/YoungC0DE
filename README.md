@@ -3,6 +3,7 @@
 - 🔭 Atualmente estou trabalhando como Auxiliar de Suporte de Chat na Jettax.
 - 🌱 Estou estudando Javascript e ReactJs.
 - 🎯 Meu objetivo é trabalhar com Desenvolvimento Front-End.
+- 🐱‍🏍 **DevOps /|/ FullStack 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungC0DE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
