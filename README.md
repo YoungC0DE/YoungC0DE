@@ -1,6 +1,5 @@
 ## Olá, eu sou Rafael Anjos 👋
 
-- 🔭 Atualmente estou trabalhando como Auxiliar de Suporte de Chat na Jettax.
 - 🌱 Estou estudando VueJs, PHP e Laravel.
 - 🎯 Meu objetivo é trabalhar com Desenvolvimento Front-End.
 - 🐱‍🏍 **DevOps** **-** **FullStack** 
