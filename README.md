@@ -1,7 +1,7 @@
 ## Olá, eu sou Rafael Anjos 👋
 
-- 🌱 Estou estudando VueJs, PHP e Laravel.
-- 🎯 Meu objetivo é trabalhar com Desenvolvimento Front-End.
+- 🌱 Estou trabalhando com VueJs, PHP e Laravel.
+- 🎯 Meu objetivo é me tornar FullStack.
 - 🐱‍🏍 **DevOps** **-** **FullStack** 
 
 <p>&nbsp;</p>
