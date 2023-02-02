@@ -4,11 +4,18 @@
 - 🎯 Meu objetivo é trabalhar com Desenvolvimento Front-End.
 - 🐱‍🏍 **DevOps** **-** **FullStack** 
 
+<p>&nbsp;</p>
+
 <div align="center">
+  <a href="https://github.com/YoungC0DE">
+       <img align="center" src="https://github-profile-trophy.vercel.app/?username=YoungC0DE&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungC0DE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungC0DE&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
+
+<p>&nbsp;</p>
+
 <div align="center">
   
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
@@ -50,20 +57,14 @@
    <img src="https://user-images.githubusercontent.com/68437256/162633924-e59e6cde-b128-4df6-bb7c-3d86efbd65b4.gif" align="right" alt="Rafael-pic" height="150">
 </div>
   
-  ##
+##
   
-  <div align="center"> 
-  <details>
-    <summary>Mais...</summary>
-    <p align="center">
-     <a href="https://github.com/YoungC0DE">
-       <img align="center"
-            src="https://github-profile-trophy.vercel.app/?username=YoungC0DE&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-            />
-     </a>
-    </p>
-    
-![Snake animation](https://github.com/YoungC0DE/YoungC0DE/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> 
+<details>
+<summary>Mais...</summary>
+ 
+![Snake animation](https://github.com/YoungC0DE/YoungC0DE/blob/output/github-contribution-grid-snake.svg) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngc0de&" alt="youngc0de" /></p>
 
  ### Minhas redes sociais:
   <a href="https://www.linkedin.com/in/rafael-anjos-santos-b72b7b190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
