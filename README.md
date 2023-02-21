@@ -1,15 +1,21 @@
-## Olá, eu sou Rafael Anjos 👋
+<div align="center">
+ 
+![LofiVaporwaveGIF](https://user-images.githubusercontent.com/68437256/220266339-6be7d6c3-15c4-4b89-b7e4-6c5f3ab84df2.gif)
 
-- 🌱 Estou trabalhando com VueJs, PHP e Laravel.
-- 🎯 Meu objetivo é me tornar FullStack.
-- 🐱‍🏍 **DevOps** **-** **FullStack** 
+#
 
+🌱 I'm working with VueJs, PHP and Laravel.<br>
+🎯 My goal is to be a Full Stack Developer.<br>
+⛳ I'm currently a junior programmer at Jettax.<br>
+ 
+</div>
 <p>&nbsp;</p>
 
 <div align="center">
   <a href="https://github.com/YoungC0DE">
-       <img align="center" src="https://github-profile-trophy.vercel.app/?username=YoungC0DE&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=YoungC0DE&theme=onedark&no-frame=false&row=1&&margin-w=10&no-bg=false"/>
   </a>
+  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungC0DE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungC0DE&layout=compact&langs_count=7&theme=radical"/>
 </div>
