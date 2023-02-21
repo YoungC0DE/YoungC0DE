@@ -1,7 +1,6 @@
 <div align="center">
  
-![LofiVaporwaveGIF](https://user-images.githubusercontent.com/68437256/220266339-6be7d6c3-15c4-4b89-b7e4-6c5f3ab84df2.gif)
-
+![image](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
 #
 
 🌱 I'm working with VueJs, PHP and Laravel.<br>
