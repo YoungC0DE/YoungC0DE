@@ -1,11 +1,12 @@
 <div align="center">
  
 ![image](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
-#
 
 🌱 I'm working with VueJs, PHP and Laravel.<br>
 🎯 My goal is to be a Full Stack Developer.<br>
 ⛳ I'm currently a junior programmer at Jettax.<br>
+ 
+ #
  
 </div>
 <p>&nbsp;</p>
