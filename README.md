@@ -138,7 +138,8 @@
 ![Snake animation](https://github.com/YoungC0DE/YoungC0DE/blob/output/github-contribution-grid-snake.svg) 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngc0de&" alt="youngc0de" /></p>
 
- ### My social networks:
+ ### Contact me in:
   <a href="https://www.linkedin.com/in/rafael-anjos-santos-b72b7b190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/rafael-anjos-santos-b72b7b190" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23ff4141?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
  
 </div>
