@@ -140,6 +140,6 @@
 
  ### Contact me in:
   <a href="https://www.linkedin.com/in/rafael-anjos-santos-b72b7b190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="mailto:raphaelsantosajs@gmail.com?Subject:friend from github&body=Hello, i liked your project..." target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23ff4141?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
+ <a href="mailto:raphaelsantosajs@gmail.com?Subject=Friend%20from%20github&Body=Hello%20i%20liked%20your%20project..." target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23ff4141?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
  
 </div>
