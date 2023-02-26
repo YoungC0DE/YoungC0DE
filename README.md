@@ -140,6 +140,6 @@
 
  ### Contact me in:
   <a href="https://www.linkedin.com/in/rafael-anjos-santos-b72b7b190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/rafael-anjos-santos-b72b7b190" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23ff4141?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
+ <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCHrjmsrzpJgKVLJbZzfgxPHDwmwzkhsfzFJsjRpvWmSDBlfZgglhplHHpbSsnVHKMHcfKNq" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23ff4141?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
  
 </div>
