@@ -119,9 +119,11 @@
 <p>&nbsp;</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungC0DE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungC0DE&layout=compact&langs_count=7&theme=radical"/>
-  <br><br>
+  <div>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungC0DE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungC0DE&layout=compact&langs_count=7&theme=radical"/>
+  </div>
+   <br><br>
   <a href="https://github.com/YoungC0DE">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=YoungC0DE&theme=onedark&no-frame=false&row=1&&margin-w=10&no-bg=false"/>
   </a>
@@ -136,7 +138,8 @@
 <summary>Mais...</summary>
  
 ![Snake animation](https://github.com/YoungC0DE/YoungC0DE/blob/output/github-contribution-grid-snake.svg) 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngc0de&" alt="youngc0de" /></p>
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YoungC0DE&theme=dark)](https://git.io/streak-stats)
 
  ### Contact me in:
   <a href="https://www.linkedin.com/in/rafael-anjos-santos-b72b7b190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
