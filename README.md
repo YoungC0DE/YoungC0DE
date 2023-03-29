@@ -135,7 +135,7 @@
   
 <div align="center"> 
 <details>
-<summary>Mais...</summary>
+<summary>See More...</summary>
  
 ![Snake animation](https://github.com/YoungC0DE/YoungC0DE/blob/output/github-contribution-grid-snake.svg) 
  
