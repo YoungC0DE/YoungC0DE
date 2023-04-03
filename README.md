@@ -3,7 +3,7 @@
 ![image](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
  
  
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png" width="40" height="20"> I live in São Paulo - Brazil <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png" width="40" height="20"> <br>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png" width="25" height="15"> I live in São Paulo - Brazil <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png" width="25" height="15"> <br>
 🌱 I'm working with VueJs, PHP and Laravel.<br>
 🎯 My goal is to be a Full Stack Developer.<br>
 ⛳ I'm currently a junior programmer at Jettax.<br>
