@@ -122,7 +122,7 @@
 <div align="center">
   <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoungC0DE&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungC0DE&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=YoungC0DE&theme=react&hide_border=true"/>
   </div>
    <br><br>
   <a href="https://github.com/YoungC0DE">
@@ -152,8 +152,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YoungC0DE&theme=react)](https://git.io/streak-stats)
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungC0DE&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 
  ### Contact me in:
   <a href="https://www.linkedin.com/in/rafael-anjos-santos-b72b7b190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
