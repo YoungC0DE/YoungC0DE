@@ -25,17 +25,8 @@
    <a href="https://www.php.net/" title="PHP">
       <code><img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/></code>
    </a>
-   <a href="https://nodejs.org" title="NodeJS">
-      <code><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></code>
-   </a>
    <a href="https://www.python.org/" title="Python">
       <code><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></code>
-   </a>
-   <a href="https://devdocs.io/c/" title="C-lang">
-      <code><img src="https://skillicons.dev/icons?i=c" alt="c-lang" width="40" height="40"/></code>
-   </a>
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="CSharp">
-      <code><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/></code>
    </a>
 </div>
 
@@ -57,6 +48,9 @@
    </a>
    <a href="https://jquery.com/" title="jQuery">
       <code><img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" height="40"/></code>
+   </a>
+   <a href="https://nodejs.org" title="NodeJS">
+      <code><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></code>
    </a>
    <a href="https://gulpjs.com/" title="Gulp">
       <code><img src="https://skillicons.dev/icons?i=gulp" alt="gulp" width="40" height="40"/></code>
@@ -100,8 +94,8 @@
    <a href="https://www.vim.org/" title="Vim">
       <code><img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40"/></code>
    </a>
-   <a href="https://www.qt.io/product/ui-design-tools" title="qtDesigner">
-      <code><img src="https://skillicons.dev/icons?i=qt" alt="qtdesigner" width="40" height="40"/></code>
+   <a href="https://docs.docker.com/" title="Docker">
+      <code><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></code>
    </a>
    <a href="https://regexr.com/" title="Regex">
       <code><img src="https://skillicons.dev/icons?i=regex" alt="regex" width="40" height="40"/></code>
