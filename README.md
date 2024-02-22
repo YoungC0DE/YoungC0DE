@@ -19,8 +19,14 @@
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3">
       <code><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></code>
    </a>
+   <a href="https://sass-lang.com/documentation/" title="Sass">
+      <code><img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="40" height="40"/></code>
+   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
       <code><img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="40" height="40"/></code>
+   </a>
+   <a href="https://www.typescriptlang.org/docs/" title="Typescript">
+      <code><img src="https://skillicons.dev/icons?i=ts" alt="Typescript" width="40" height="40"/></code>
    </a>
    <a href="https://www.php.net/" title="PHP">
       <code><img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/></code>
@@ -51,12 +57,6 @@
    </a>
    <a href="https://nodejs.org" title="NodeJS">
       <code><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></code>
-   </a>
-   <a href="https://gulpjs.com/" title="Gulp">
-      <code><img src="https://skillicons.dev/icons?i=gulp" alt="gulp" width="40" height="40"/></code>
-   </a>
-   <a href="https://babeljs.io/" title="Babel">
-      <code><img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/></code>
    </a>
    <a href="https://www.selenium.dev/" title="Selenium">
       <code><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/></code>
@@ -97,17 +97,8 @@
    <a href="https://docs.docker.com/" title="Docker">
       <code><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></code>
    </a>
-   <a href="https://regexr.com/" title="Regex">
-      <code><img src="https://skillicons.dev/icons?i=regex" alt="regex" width="40" height="40"/></code>
-   </a>
-   <a href="https://www.nginx.com/" title="Nginx">
-      <code><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/></code>
-   </a>
    <a href="https://git-scm.com/" title="Git">
       <code><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></code>
-   </a>
-   <a href="https://aws.amazon.com/pt/" title="AWS">
-      <code><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></code>
    </a>
 </div>
 
