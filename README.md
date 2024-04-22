@@ -4,9 +4,8 @@
  
  
 <img src="https://img.freepik.com/icones-gratis/brasil_318-502204.jpg" width="30" height="30"> I live in São Paulo - Brazil <img src="https://img.freepik.com/icones-gratis/brasil_318-502204.jpg" width="30" height="30"> <br>
-🌱 I'm working with VueJs, PHP and Laravel.<br>
-🎯 My goal is to be a Full Stack Developer.<br>
-⛳ I'm currently a junior programmer at Jettax.<br>
+:beginner: I'm working with VueJs, PHP and Laravel.<br>
+:computer: I'm currently a full stack developer.<br>
  
  #
 </div>
@@ -31,9 +30,6 @@
    <a href="https://www.php.net/" title="PHP">
       <code><img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/></code>
    </a>
-   <a href="https://www.python.org/" title="Python">
-      <code><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></code>
-   </a>
 </div>
 
 <p>&nbsp;</p>
@@ -43,17 +39,11 @@
    <a href="https://laravel.com/" title="Laravel">
       <code><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/></code>
    </a>
-   <a href="https://pt-br.reactjs.org/" title="ReactJS">
-      <code><img src="https://skillicons.dev/icons?i=react" alt="reacjs" width="40" height="40"/></code>
-   </a>
    <a href="https://vuejs.org/" title="VueJS">
       <code><img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/></code>
    </a>
    <a href="https://getbootstrap.com/" title="Bootstrap">
       <code><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></code>
-   </a>
-   <a href="https://jquery.com/" title="jQuery">
-      <code><img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" height="40"/></code>
    </a>
    <a href="https://nodejs.org" title="NodeJS">
       <code><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></code>
@@ -90,9 +80,6 @@
    </a>
    <a href="https://code.visualstudio.com/" title="VSCode">
       <code><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/></code>
-   </a>
-   <a href="https://www.vim.org/" title="Vim">
-      <code><img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40"/></code>
    </a>
    <a href="https://docs.docker.com/" title="Docker">
       <code><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></code>
