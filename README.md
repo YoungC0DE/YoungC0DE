@@ -20,21 +20,54 @@
 
 ## 🧠 Tech Stack
 
-| 💻 Backend & Languages | 🎨 Frontend |
-|------------------------|-------------|
-| PHP                   | Vue.js      |
-| Laravel               | Sass        |
-| Node.js               | Tailwind CSS|
-| JavaScript            | Bootstrap   |
-| TypeScript            |             |
+<div style="width: 100%; overflow-x: auto;">
 
-| 🗄️ Databases         | ☁️ DevOps & Infrastructure |
-|----------------------|----------------------------|
-| MySQL                | AWS                        |
-| PostgreSQL           | Google Cloud (GCP)         |
-| MongoDB              | Docker                     |
-| Firebase             | Kubernetes                 |
-|                      | Jenkins                    |
-|                      | Redis                      |
+<table style="min-width: 700px; width: 100%; border-collapse: collapse;">
+<tr>
+<th align="left">💻 Backend & Languages</th>
+<th align="left">🎨 Frontend</th>
+<th align="left">🗄️ Databases</th>
+<th align="left">☁️ DevOps & Infrastructure</th>
+</tr>
+
+<tr>
+<td>PHP</td>
+<td>Vue.js</td>
+<td>MySQL</td>
+<td>AWS</td>
+</tr>
+<tr>
+<td>Laravel</td>
+<td>Sass</td>
+<td>PostgreSQL</td>
+<td>Google Cloud (GCP)</td>
+</tr>
+<tr>
+<td>Node.js</td>
+<td>Tailwind CSS</td>
+<td>MongoDB</td>
+<td>Docker</td>
+</tr>
+<tr>
+<td>JavaScript</td>
+<td>Bootstrap</td>
+<td>Firebase</td>
+<td>Kubernetes</td>
+</tr>
+<tr>
+<td>TypeScript</td>
+<td></td>
+<td></td>
+<td>Jenkins</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Redis</td>
+</tr>
+</table>
+
+</div>
 
 </div>
